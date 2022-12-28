@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_coursetype_types",
+  "info": {
+    "displayName": "Type",
+    "icon": "bookmark",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "free": {
+      "type": "string"
+    },
+    "premium": {
+      "type": "string"
+    },
+    "paid": {
+      "type": "string"
+    }
+  }
+}
